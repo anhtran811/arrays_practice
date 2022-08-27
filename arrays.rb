@@ -44,3 +44,11 @@ trip.push had_fire = true
 trip.shift
 #! the method .unshift will add the element false(tent_camp) at the front of the Array of Strings in trip
 trip.unshift tent_camp = false
+
+Index positions in an Array starts at 0.  It indicates the position in which to find the element and allows you to access the element.
+Example:  national_parks = ["Zion", "Banff", "Yosemite", "Grand Canyon"]
+index positions:
+"Zion" is [0]
+"Banff" is [1]
+"Yosemite" is [2]
+"Grand Canyon" is [3]
