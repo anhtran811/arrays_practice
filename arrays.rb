@@ -48,10 +48,10 @@ trip.unshift tent_camp = false
 #! Index Positions in an Array starts at 0.  It indicates the position in which to find the element and allows you to access the element.
 #! Example:  national_parks = ["Zion", "Banff", "Yosemite", "Grand Canyon"]
 #! index positions:
-"Zion" is [0]
-"Banff" is [1]
-"Yosemite" is [2]
-"Grand Canyon" is [3]
+#! "Zion" is [0]
+#! "Banff" is [1]
+#! "Yosemite" is [2]
+#! Grand Canyon" is [3]
 
 #! Ruby Documentation: Accessing Elements
 #! this allows us to retrieve an element in an array by using [square brackets] around the index position
